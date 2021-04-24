@@ -18,3 +18,8 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp
+
+// yarn server 
+// yarn dev 
+// yarn build
+// yarn start
