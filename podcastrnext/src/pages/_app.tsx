@@ -23,3 +23,4 @@ export default MyApp
 // yarn dev 
 // yarn build
 // yarn start
+// yarn add axios
